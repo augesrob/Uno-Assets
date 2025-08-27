@@ -1,0 +1,1 @@
+This should contain the full vendor/ folder after composer install.
